@@ -1,0 +1,32 @@
+//Translation for the unfoldingWord mobile app interface//
+//Traduction de l'interface de l'application mobile pour "unfoldingWord"//
+
+Select a language: Select a Language
+Choisir une langue
+
+Chapters: Chapters
+Chapitres
+
+Languages: Languages
+Langues
+
+Next chapter: Next Chapter
+Prochain Chapitre
+
+OK: OK
+D'accord
+
+Cancel: Cancel
+Annuler
+
+Save locally: Save Locally
+Sauvegarder en local
+
+Save this string: Save this language locally for offline use.
+Sauvegarder cette chaîne de caractères.  Sauvegarder cette langue en local pour une utilisation hors connexion
+
+Remove locally: Remove Locally
+Effacer en local
+
+Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
+Effacer cette chaîne de caractères.  Enlever cette langue de la sauvegarde locale.  Vous aurez besoin d'une connexion internet pour consulter ultérieurement.

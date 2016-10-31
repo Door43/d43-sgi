@@ -1,0 +1,7 @@
+====== Open Bible Stories (fr) ======
+
+{{  :en:obs-pic_360p.jpg?nolink&300}}**50 histoires clés de la Bible, de la création à l'Apocalypse, pour l'évangélisation et la formation de disciples, aux formats texte, audio et vidéo, pour tous les téléphones portables, dans toutes les langues, gratuit.**
+
+Bienvenue à Open Bible Stories! Sentez vous libre de traduire cette page ainsi que les histoires (en incluant les titres) ci-dessous. Si vous avez besoin d'aide [[:contact|demandez !]]
+
+{{page>sgi:obs:stories}}
